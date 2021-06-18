@@ -1,0 +1,6 @@
+.vscode/
+bin/
+Migrations/
+appsettings.json
+appsettings.Development.json
+api.*
